@@ -1,0 +1,6 @@
+{
+  "name": "Kingdom Kid Bible App",
+  "description": "An interactive, child-friendly Bible adventure app with animated stories, quiz quests, a creative coloring canvas, and an AI chat to ask questions to Bible heroes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
